@@ -11,7 +11,7 @@ Those examples will guide you for first integration existing (Web-)APIs to your 
 
 ### Remote Method Invocation (RMI) ###
 
-#### Getting Started
+#### Getting Started ####
 Getting started with [RMI Example](rmi) and go through those steps to learn how Remote Method Invocation works.
 
 - Clone [RMI Example](rmi)
@@ -26,8 +26,27 @@ Take care to start registry before starting server
 - start registry
 - start server
 - start client
- 
+
+
+### XML Remote Procedure Call (XML-RPC) ###
+
+#### Getting Started ####
+Getting started with [XML-RPC Example](xml-rpc) and go through those steps to learn how Remote Method Invocation works.
+
+- Clone [XML-RPC Example](xml-rpc)
+- Test Local
+- Test on two devices
+  - [Server](xml-rpc/java)
+  - [Client](xml-rpc/java)
+
+#### Java Server & Python Client ####
+The [XML-RPC Example](xml-rpc) includes a simple [Python Client](xml-rpc/python) 
+
 ### REST API Calls ###
+
+#### Getting Started ####
+
+Try those selected APIs and also find some APIs for your needs. 
 
 #### Google Geocoding API (DEPRECATED because it's not free anymore) ####
 
