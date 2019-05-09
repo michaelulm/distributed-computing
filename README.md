@@ -28,7 +28,7 @@ take a look on following helpful links
 
 Setup and Installation
 
-...
+- Install Node.js ( [Download and Installer](https://nodejs.org/en/download/) | [3rd Party Tutorial](https://www.guru99.com/download-install-node-js.html) | [Step by Step Video Instruction](https://www.youtube.com/watch?v=U8XF6AFGqlc))
 
 ...
 
@@ -44,7 +44,21 @@ Remote Objects / Web Services
 - [Oracle Java RMI Tutorial](https://docs.oracle.com/javase/tutorial/rmi/index.html)
 - Example of an [Java application example in a distributed environment (RMI)](https://districted.wordpress.com/2014/03/15/java-application-example-in-a-distributed-environment-rmi/)
 
-WebSocket
+
+Node.js
+
+- Upgrade npm
+
+> npm i npm
+
+
+
+
+*WebSocket*
+
+- [MDN WebSocket Dokumentation](https://developer.mozilla.org/de/docs/WebSockets)
+- [WebSockets - A Conceptual Deep-Dive](https://www.ably.io/concepts/websockets)
+
 
 ...
 
