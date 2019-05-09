@@ -52,12 +52,19 @@ Node.js
 > npm i npm
 
 
+Python
+
+[Python 2 and Python 3 installed on the same (Windows) PC](https://stackoverflow.com/questions/341184/can-i-install-python-3-x-and-2-x-on-the-same-windows-computer)
+
+> py -3 <your-script>.py
 
 
 *WebSocket*
 
 - [MDN WebSocket Dokumentation](https://developer.mozilla.org/de/docs/WebSockets)
 - [WebSockets - A Conceptual Deep-Dive](https://www.ably.io/concepts/websockets)
+- [readyState](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket/readyState)
+- Example EventHandler: [onmessage](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket/onmessage)
 
 
 ...
