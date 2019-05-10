@@ -5,6 +5,8 @@ $(function () {
   var content = $('#content');
   var input = $('#input');
   var status = $('#status');
+  
+  status.text("Connecting ...");
 
   // my color assigned by the server
   var myColor = false;
@@ -32,6 +34,7 @@ $(function () {
     // first we want users to enter their names
     input.removeAttr('disabled');
     status.text('Choose name:');
+    input.val('');
   };
 
   connection.onerror = function (error) {
