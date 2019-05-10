@@ -9,6 +9,7 @@ WebSocket will introduce a new way of communication between client and server. T
 WebSocket also enables an instant communication between all connected users. By doing your own implementation based on WebSocket a real-time communication and collaboration is possible.
 
 ### Getting Started
+- Change to [node-webserver](node-webserver)
 - Install [Node.js](https://nodejs.org/en/ "Node.js")
 - run simple [webserver demo](node-webserver/app.js "Webserver Demo with Node.js")
 
@@ -22,9 +23,16 @@ after testing Node.js is running at your local enviroment, start exploring Web S
 - install jquery with npm package manager or replace jquery reference at this examples
 - use [websocket template](node-websocket) for your next steps
  
+> npm install
+> 
+> node app.js 
 
 
 ### Chat Example
+
+- Change to [chat](chat)
+- for exercise by your own use files named **exercise-*** 
+- solutions are fronted.js, app.js and index.html
 
 #### Overview
 
@@ -63,6 +71,7 @@ This simple starter example helps to start implementing only the client. You wil
 - [How to handle a Click on a HTML Element with JQuery](https://api.jquery.com/click/)
 - [How to handle Keyevents with JQuery](https://api.jquery.com/keypress/)
 - [Writing Web Socket Clients](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_client_applications)
+- [How many connections could be handled by a WebSocket Server](https://serverfault.com/questions/533611/how-do-high-traffic-sites-service-more-than-65535-tcp-connections)
 
 #### Additional Tasks
 - Write another Web Socket Client in e.g. Python
