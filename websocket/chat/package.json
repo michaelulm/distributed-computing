@@ -9,7 +9,7 @@
   "author": "Michael Ulm",
   "license": "GPL-3.0",
   "dependencies": {
-    "jquery": "3.4.x",
+    "jquery": "3.5.x",
     "websocket": "1.0.x"
   }
 }
